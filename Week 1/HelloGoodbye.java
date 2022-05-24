@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
+ *  Name:              Katongole Mubarak
  *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Last modified:     May 24,  2022
  **************************************************************************** */
 
 public class HelloGoodbye {
